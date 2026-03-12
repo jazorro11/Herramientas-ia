@@ -243,16 +243,3 @@ Este punto depende de tu stack o arquitectura.
 
 ---
 
-## Uso dentro del repositorio
-
-**Estructura recomendada:**
-
-```
-herramientas-ia/
-│
-├─ 01-planning/
-│   ├─ template-brief.md
-│   └─ template-review.md
-│
-└─ reflexion-semana-1.md
-```
