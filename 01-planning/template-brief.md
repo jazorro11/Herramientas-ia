@@ -143,3 +143,4 @@ El trabajo se considera terminado cuando:
 - [ ] La documentación (docstrings, README del módulo) está actualizada si hubo cambios en la interfaz pública.
 - [ ] No se introducen regresiones en funcionalidades existentes (suite de regresión en verde).
 - [ ] _(agrega criterios adicionales específicos de este proyecto o tarea)_
+***Este es mi Technical Brief. Antes de escribir código, critica el brief: ¿qué falta? ¿qué está ambiguo? ¿qué restricción añadirías?***
